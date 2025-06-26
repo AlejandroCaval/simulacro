@@ -1,0 +1,1 @@
+esta version del proyecto utiliza Angular 18
